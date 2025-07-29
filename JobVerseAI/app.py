@@ -62,4 +62,4 @@ if st.button("🔍 Check Resume-JD Match"):
         st.error("Please upload a resume and paste a JD.")
 
 st.markdown("---")
-st.markdown("<center>Built with ❤️ by Bhavethra • 2025</center>", unsafe_allow_html=True)
+
