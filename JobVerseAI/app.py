@@ -15,7 +15,7 @@ st.markdown("""
         border-radius: 10px;
     }
     .stProgress > div > div > div > div {
-        background-color: #00FFAA;
+        background-color: #00CFFF;
     }
     </style>
 """, unsafe_allow_html=True)
