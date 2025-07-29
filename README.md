@@ -8,7 +8,7 @@ JobVerseAI is your intelligent career companion. It uses state-of-the-art NLP (S
 
 ---
 
-![demo](https://github.com/BhavethraBaabu/JobVerseAI/assets/demo-placeholder.gif)  
+(https://job-verseai.streamlit.app/)  
 
 
 ---
