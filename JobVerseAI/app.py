@@ -9,7 +9,7 @@ st.set_page_config(page_title="JobVerseAI", layout="centered")
 st.markdown("""
     <style>
     .stButton > button {
-        background-color: #4CAF50;
+        background-color: #2F4F4F;
         color: white;
         padding: 8px 20px;
         border-radius: 10px;
